@@ -34,6 +34,10 @@ This application is designed to offer quick and accurate text analysis through a
 
 This project is perfect for anyone who wants to analyze the basic statistics of their text quickly and effortlessly. It can be particularly useful for writers, students, and educators who need to evaluate their content.
 
+## Text-Analyzer-Tool Web Interface
+
+## Result Screen After Analysis
+
 ---
 
 ## 💡 **How to Use**
