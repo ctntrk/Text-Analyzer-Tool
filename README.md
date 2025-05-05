@@ -6,6 +6,13 @@ This project uses **Streamlit** for the frontend and **Flask** for the backend, 
 
 ---
 
+## Text Analyzer Tool Demo Introduction Video
+
+https://github.com/user-attachments/assets/0b8ac185-b215-4f52-b7a4-747e4774a372
+
+
+---
+
 ## 🚀 **Features**
 
 * **Character Count**: Displays the total number of characters in the text.
@@ -36,7 +43,14 @@ This project is perfect for anyone who wants to analyze the basic statistics of 
 
 ## Text-Analyzer-Tool Web Interface
 
+![Alt text](https://github.com/ctntrk/Text-Analyzer-Tool/blob/main/Text-Analyzer-Tool-Web-Interface.jpg)
+
+---
+
 ## Result Screen After Analysis
+
+![Alt text](https://github.com/ctntrk/Text-Analyzer-Tool/blob/main/Result-Screen-After-Analysis.jpg)
+
 
 ---
 
